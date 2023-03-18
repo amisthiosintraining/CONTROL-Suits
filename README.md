@@ -1,4 +1,4 @@
-# CONTROL | Playing For Keeps | Suit Recolours
+# CONTROL | Suit Recolours
 **Untested** collection of suit recolours
 
 Installation Instructions
