@@ -1,6 +1,8 @@
 # CONTROL | Suit Recolours
 **Untested** collection of suit recolours
 
+<img src="https://imgur.com/9aQmIDl.png" alt="Colour grid" style="height:250px;"> <img src="https://imgur.com/Ef8BZ8l.png" alt="Army Green suit sample" style="height:250px;"> <img src="https://imgur.com/RFwIhK6.png" alt="MSU Green suit sample" style="height:250px;">
+
 Installation Instructions
 ------
 1) You will <a href="https://www.nexusmods.com/control/mods/11">NEED Loose File Loader</a> in order to install these mods.
