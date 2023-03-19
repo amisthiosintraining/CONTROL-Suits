@@ -1,7 +1,7 @@
 # CONTROL | Suit Recolours
 **Untested** collection of suit recolours
 
-<img src="https://imgur.com/9aQmIDl.png" alt="Colour grid" style="height:250px;"> <img src="https://imgur.com/Ef8BZ8l.png" alt="Army Green suit sample" style="height:250px;"> <img src="https://imgur.com/RFwIhK6.png" alt="MSU Green suit sample" style="height:250px;">
+<img src="https://imgur.com/9aQmIDl.png" alt="Colour grid" style="height:220px;"> <img src="https://imgur.com/Ef8BZ8l.png" alt="Army Green suit sample" style="height:220px;"> <img src="https://imgur.com/RFwIhK6.png" alt="MSU Green suit sample" style="height:220px;">
 
 Installation Instructions
 ------
